@@ -40,7 +40,5 @@ A Flask-based application for video and audio suggestions, using keyword-based f
 	•	Java and Spring Boot for Backend Development
 
 📫 Contact Me
-
 	•	LinkedIn:https://www.linkedin.com/in/adepu-chetan-b63b36237?trk=contact-info
-
 	•	GitHub: https://github.com/itachi200218
