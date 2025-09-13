@@ -1,11 +1,11 @@
 # 👨‍💻 Adepu Chaitanya (@itachi200218)
 
-**SDET | Passionate Software Developer | Java | Reac | Node.js | Python | Flask**
+**SDET | Passionate Software Developer | Java | React | Node.js | Python | Flask**
 
 ---
 
 ## 👀 About Me
-I am an **SDET** and passionate about **software development**, building robust applications, and solving real-world problems through code. My experience spans **JavaScript, React, Node.js, Python (Flask), MySQL**, with a focus on creating **scalable and maintainable applications**. I enjoy full-stack development and web application projects that challenge me to innovate and automate.
+I am an **SDET** and passionate about **software development**, building robust applications, and solving real-world problems through code. My experience spans **Java,RestAssured,Selenium,playWright, React, Node.js, Python (Flask), MySQL**, with a focus on creating **scalable and maintainable applications**. I enjoy full-stack development and web application projects that challenge me to innovate and automate.
 
 ---
 
