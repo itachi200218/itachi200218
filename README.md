@@ -1,4 +1,4 @@
-*👨‍💻 Adepu Chaitanya (@itachi200218)
+👨‍💻 Adepu Chaitanya (@itachi200218)
 
 SDET | Passionate Software Developer | Java | React | Node.js | Python | Flask
 
