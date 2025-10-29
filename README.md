@@ -55,7 +55,7 @@ I love solving real-world problems through **AI-powered solutions**, **API frame
 **Tech Stack:** Node.js, Express, MongoDB, React  
 
 **Highlights:**
-- Full-stack social media platform with post creation, likes, and comments  
+- Full-stack social media platform with post creation,private chatting, likes, and comments, AI
 - JWT-based user authentication and responsive React UI  
 
 ---
