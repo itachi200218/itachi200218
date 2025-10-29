@@ -1,105 +1,149 @@
-👨‍💻 Adepu Chaitanya (@itachi200218)
+# 👨‍💻 Adepu Chaitanya (@itachi200218)
 
-SDET | Passionate Software Developer | Java | React | Node.js | Python | Flask
-
----
-
-👀 About Me
-
-I am an SDET and passionate software developer who thrives on building robust applications and solving real-world problems through code. My experience spans Java, RestAssured, Selenium, Playwright, React, Node.js, Python (Flask), MySQL, with a focus on creating scalable and maintainable systems. I enjoy full-stack development and web application projects that challenge me to innovate, automate, and architect intelligent flows.
+### SDET | Passionate Software Developer | Java | Spring Boot | React | Node.js | Python | Flask | Selenium | RestAssured
 
 ---
 
-🌟 Major SDE Projects
+## 👀 About Me
 
-🔹 Frontend & Full-Stack JavaScript Projects
-
-Social Media App
-
-• Full-stack social media platform
-• Tech Stack: JavaScript, Node.js, Express, MongoDB, React
-• Features: User authentication, post creation, comments, likes, responsive design
-
-
-Student Job Tracker
-
-• Full-stack web app to track student job applications
-• Tech Stack: JavaScript, Node.js, Express, MongoDB, React
-• Features: CRUD operations for jobs, dashboard, search & filter, interactive UI
-
-
-Food-Finder
-
-• Recipe search and suggestion platform
-• Tech Stack: JavaScript, Node.js, Express, React
-• Features: Search recipes, categorize dishes, interactive UI
-
+I am an **SDET and Full-Stack Developer** who thrives on building robust, scalable, and intelligent applications.  
+My experience spans **Java**, **Spring Boot**, **RestAssured**, **Selenium**, **React**, **Node.js**, **Python (Flask)**, and **MySQL**, blending development and automation for high-quality systems.  
+I love solving real-world problems through **AI-powered solutions**, **API frameworks**, and **end-to-end automation**.
 
 ---
 
-🔹 Spring Boot Projects
+## 🌟 Major Full-Stack Projects
 
-Spring Boot Admin Panel – Authentication & Recipe Management
+### 🍽️ Food Finder – AI-Powered Recipe Platform
+**Tech Stack:** HTML, CSS, JavaScript, Python (Flask), MySQL, Gemini AI, Redis  
 
-• Full-stack web application built with Spring Boot, HTML/CSS/JavaScript, and MySQL
-• Features:• Dual-panel Login & Registration with dynamic success messages and backend validation
-• Forgot Username flow using email lookup and instant feedback
-• Reset Password functionality with secure update logic and confirmation messaging
-• Profile Management with session-based rendering and password change logic
-• Recipe Manager Dashboard for CRUD operations, category mapping, and admin-level control
-• Displays total recipes, user count, and top category stats
-• Integrated “View Detail” buttons for recipe drill-down and category-based browsing
+**Highlights:**
+- Intelligent recipe finder with **category sidebar (Veg, Non-Veg, Tiffins, etc.)**
+- **Powerful search bar** using fuzzy matching + Gemini AI
+- Gemini AI provides **recipe suggestions** if not found in DB
+- Separate **chatbot page** with real-time AI interaction
+- AI-generated recipe suggestions, fetched dynamically from database
+- Optimized backend performance with **Redis caching**
 
-• Tech Stack: Java (Spring Boot), HTML, CSS, JavaScript, MySQL
-• Highlights: Full-stack orchestration, dynamic frontend logic, and system-level ownership
-
+**✨ Features**
+- Type “chi” → top 5 chicken recipes from DB  
+- Type “veg recipe” → Gemini AI suggests top 5 new recipes  
+- Clean and responsive UI with animated sidebar & center display  
 
 ---
 
-🌟 Major SDET Projects
+### 🧠 Food Finder – Admin Panel (Spring Boot + Gemini AI)
+**Tech Stack:** Java (Spring Boot), HTML, CSS, JavaScript, MySQL, Gemini AI  
 
-🔹 API Testing Projects
+**Highlights:**
+- Built for **admin-side management** of recipes and users  
+- Integrated **Gemini AI** to execute natural language commands directly on DB  
+- **Low latency** (AI response < 1s, CRUD ops optimized with indexes)
+  
+**Key Features**
+- 👤 **User Management:** Register, login, password recovery, profile update  
+- 🍲 **Recipe Operations:** Full CRUD + image upload + bulk updates  
+- 📊 **Analytics Dashboard:** Real-time recipe/user stats, top 3 categories, duplicate user detection  
+- 🤖 **Gemini AI Assistant:**  
+  - `"create recipe pasta at category 1"` → auto-saves recipe  
+  - `"delete recipe Veg Fried Rice category 1"` → validates and removes from DB  
+- Multi-language code generation, Excel export, and database documentation  
 
-• Tracker-Api-2nd-Test – Java + RestAssured + TestNG (Reusable framework)
-• Food-Finder-Api-test – API automation using reusable classes
-• Social-media-Api-Test – Java + RestAssured + TestNG
-• Student-Job_Tracker_API-Test – Backend API testing
+---
 
+### 💻 Social Media App
+**Tech Stack:** Node.js, Express, MongoDB, React  
 
-🔹 Selenium / Web Automation Projects (Client Projects – Boots via Cognizant)
+**Highlights:**
+- Full-stack social media platform with post creation, likes, and comments  
+- JWT-based user authentication and responsive React UI  
 
-WBAWellness-selenium
+---
 
-• Selenium + Java + TestNG + POM + Excel integration
-• Automated 25-page health quiz for Boots’ wellness platform
-• Data-driven testing and screenshot capture for reporting
+### 🎓 Student Job Tracker
+**Tech Stack:** Node.js, Express, MongoDB, React  
 
+**Highlights:**
+- Track and manage job applications with CRUD operations  
+- Search, filter, and dashboard features for job status  
+- Built as part of **Cuvette full-stack MERN assignment**  
 
-Boots-Selenium-Test
+---
 
-• Web automation using reusable frameworks
-• Automated product search, add to cart, checkout, gift card redemption, and login flows
+## 🔬 Major SDET / Automation Projects
 
+### 🧪 Food Finder – REST Assured API Automation
+**Tech Stack:** Java, RestAssured, TestNG, Allure Reports  
 
-FaceBook-Selenium-Test
+**Highlights:**
+- Tested all backend endpoints for Food Finder Flask API  
+- Built **reusable ApiResuable class** for request handling  
+- Verified `/get-recipes`, `/get-suggestions`, `/chatbot-api`, `/ai-search`, and more  
+- Integrated **Allure Reports** for visual reporting  
 
-• Selenium Java + POM
-• Automated Facebook signup and login flows
-• Handled DOB, gender selection, error validations, and data-driven Excel inputs
+---
+
+### 🧩 Food Finder – Selenium Automation
+**Tech Stack:** Java, Selenium, TestNG, POM  
+
+**Highlights:**
+- Automated **end-to-end testing** of Food Finder UI (User & Admin)  
+- Validated search, category filter, and recipe detail pages  
+- Screenshot capture and reporting integration  
+
+---
+
+### 🧪 Tracker-API-2nd-Test  
+**Tech Stack:** Java, RestAssured, TestNG  
+Reusable REST automation framework validating authentication, CRUD operations, and latency handling.
+
+---
+
+### 💊 WBAWellness-Selenium (Client Project – Boots via Cognizant)
+**Tech Stack:** Java, Selenium, TestNG, Excel Integration  
+
+**Highlights:**
+- Automated 25-page health quiz  
+- Implemented POM + Data-Driven Framework  
+- Generated reports with screenshots  
+
+---
+
+### 🛍️ Boots-Selenium-Test  
+**Tech Stack:** Java, Selenium, TestNG  
+
+**Highlights:**
+- Automated search, add-to-cart, checkout, gift card redemption, and login flows  
+- Framework optimized for reusability  
+
+---
+
+### 📘 Facebook-Selenium-Test  
+**Tech Stack:** Java, Selenium, POM, Excel  
+Automated signup and login flows, handling date, gender, and error validation.
+
+---
+
+## ⚙️ Other Technical Highlights
+
+- **Frameworks:** Spring Boot, Flask, Express.js, React  
+- **Databases:** MySQL, MongoDB  
+- **Automation Tools:** Selenium, RestAssured, Playwright  
+- **Testing:** TestNG, JUnit, Allure Reporting  
+- **AI Tools:** Gemini AI, Fuzzy Matching, Redis Cache  
 
 ---
 
 ## 🌱 Currently Learning
-
 - Advanced React.js  
+- Spring Boot Microservices  
 - Machine Learning  
-- Data Structures and Algorithms  
-- Java and Spring Boot for backend development  
+- Data Structures & Algorithms  
 
 ---
 
 ## 📫 Contact Me
-
 - **LinkedIn:** [https://www.linkedin.com/in/adepu-chetan-b63b36237](https://www.linkedin.com/in/adepu-chetan-b63b36237)  
 - **GitHub:** [https://github.com/itachi200218](https://github.com/itachi200218)
 
+---
