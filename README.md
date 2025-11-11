@@ -1,4 +1,4 @@
-## 👨‍💻 Adepu Chaitanya (@itachi200218) 
+## 👨‍💻 Adepu Chaitanya
 SDET | Full-Stack Developer | Java | Spring Boot | React | Node.js | Python | Flask | Selenium | AI Automation  
 
 ---
