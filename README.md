@@ -1,5 +1,12 @@
-## 👨‍💻 Adepu Chaitanya
+👨‍💻 **Adepu Chaitanya (@itachi200218)**  
 SDET | Full-Stack Developer | Java | Spring Boot | React | Node.js | Python | Flask | Selenium | AI Automation  
+
+---
+
+## 🧠 About Me  
+I’m an **SDET and aspiring Full-Stack Developer** passionate about building **AI-driven, production-grade systems** that merge **Development, Testing, and AI** into one intelligent ecosystem.  
+I design frameworks and full-stack applications that are **scalable, reusable, and self-learning**, blending automation with smart analytics.  
+Currently, I’m gaining **real-world enterprise experience at Cognizant (Boots UK)** while continuing to build advanced full-stack and AI automation solutions.
 
 ---
 
@@ -8,7 +15,7 @@ Currently working as an **SDET at Cognizant**, automating and validating APIs an
 The framework integrates **Java, RestAssured, SQL, Allure, TestNG, XML, JSON**, and **custom AI reporting**, ensuring production-grade testing across multiple environments.
 
 **Key Highlights:**
-- 🧩 Using **Cognizant’s internal AI-enabled automation framework** for Boots.
+- 🧩 Using **Cognizant’s internal Spring Boot + RestAssured framework** for API automation.
 - ⚙️ Tech Stack: Java, Spring Boot, RestAssured, SQL, TestNG, Allure.
 - ☁️ Environment Access: Azure DevOps, SAP QA Environments, API Gateways.
 - 🧠 Responsibilities:
@@ -166,5 +173,5 @@ AllureIQ improved test speed by **5×**, achieved **99% debugging accuracy**, an
 ---
 
 ## 🧩 Summary
-I’m an **SDET and Full-Stack Developer** working at **Cognizant** (Boots client), using their **Spring Boot + RestAssured + Allure** framework to automate and validate APIs in real enterprise systems.  
-Alongside, I’ve built my own **AI-powered automation framework (AllureIQ)** that tested all 4 of my full-stack projects — delivering ⚡ Fast, 🔁 Reusable, and 🧠 AI-Driven testing with **5★ Debug Accuracy** and **Production-Grade Impact**.
+I’m an **SDET working at Cognizant** (Boots client) and an **aspiring Full-Stack Developer** passionate about merging testing intelligence with real-world development.  
+My in-house **AI-powered automation framework (AllureIQ)** has tested all 4 of my full-stack projects — delivering ⚡ **Fast**, 🔁 **Reusable**, and 🧠 **AI-Driven** testing with **5★ Debug Accuracy** and **Production-Grade Impact**.
