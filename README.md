@@ -168,7 +168,7 @@ AllureIQ improved test speed by **5×**, achieved **99% debugging accuracy**, an
 ## 📫 Contact Me
 - 🔗 LinkedIn: **Adepu Chaitanya**  
 - 💻 GitHub: **@itachi200218**  
-- 🌐 Portfolio: **[cognizant.com](https:cognizant.com)**  
+- 🌐 Portfolio: **[cognizant.com](https:https://www.cognizant.com/in/en)**  
 
 ---
 
